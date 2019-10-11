@@ -1,4 +1,5 @@
 # Chunk
+What it does
 
 Split an audio file into different chunks where silence is identified
 
